@@ -2,9 +2,9 @@
 # Guía para hacer un repack
 
 ## Introducción
-Este repositorio contiene un ejemplo de configuración para un repack de un juego utilizando **Inno Setup**. Este script permite crear un instalador personalizado, ajustado a tus necesidades, de forma sencilla.
+Este repositorio contiene un ejemplo de configuración para un repack de un juego utilizando **Inno Setup**. Este script puede crear un instalador personalizado, ajustado a tus necesidades, de forma sencilla.
 
-A continuación, te proporcionaré una guía paso a paso para crear un instalador y cómo modificar las variables necesarias para que funcione con tu propio juego.
+A continuación, tienes una guía paso a paso para crear un instalador y cómo modificar las variables necesarias para que funcione con tu propio juego.
 
 ---
 
@@ -143,4 +143,4 @@ end;
 ### **Información adicional**
 Este código fue creado para generar un instalador de juegos utilizando **Inno Setup**. Si es tu primera vez, puedes descargar **Inno Setup** desde [aquí](https://jrsoftware.org/isinfo.php) y usar este script para compilar el instalador de tu juego.
 
-Si tienes dudas o necesitas más ayuda, no dudes en abrir un issue en este repositorio.
+Hecho por hamzaa
