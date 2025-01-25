@@ -141,6 +141,6 @@ end;
 ---
 
 ### **Información adicional**
-Este código fue creado para generar un instalador de juegos utilizando **Inno Setup**. Si es tu primera vez, puedes descargar **Inno Setup** desde [aquí](https://jrsoftware.org/isinfo.php) y usar este script para compilar el instalador de tu juego.
+Este código fue creado para generar un instalador de juegos utilizando **Inno Setup**. Si es tu primera vez, puedes descargar **Inno Setup** desde [aquí](https://jrsoftware.org/isdl.php) y usar este script para compilar el instalador de tu juego.
 
 Hecho por hamzaa
