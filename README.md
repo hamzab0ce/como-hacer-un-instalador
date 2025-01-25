@@ -6,6 +6,8 @@ Este repositorio contiene un ejemplo de configuración para un repack de un jueg
 
 A continuación, tienes una guía paso a paso para crear un instalador y cómo modificar las variables necesarias para que funcione con tu propio juego.
 
+Puedes usar el archivo example.iss, te sera mas facil y solo tienes que cambiar la ruta de tus archivos y el nombre del Juego/App del que quieres hacer el instalador.
+
 ---
 
 ## Pasos para configurar tu repack
